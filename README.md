@@ -1,5 +1,5 @@
 # PRNG-Cybersec-Challenge-Writeup
-Writeup for a Pseudo Random Number Generator (PRNG) cybersecurity challenge. Demonstrates file encryption using a pseudo-random key and XOR operation. Explore PRNG security vulnerabilities.
+Writeup for a Pseudo Random Number Generator (PRNG) cybersecurity challenge. Demonstrates file encryption using a pseudo-random key and XOR operation. Explore PRNG security vulnerabilities. For some reason i will not provide challenge's source..
 
 ## Challenge Objective
 
